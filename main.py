@@ -1,6 +1,9 @@
 print('New1')
 print('New2')
 print('New3')
+z1=1
+z2=2
+z3=3
 x1=10
 x2=30
 x3=30
